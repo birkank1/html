@@ -1,0 +1,28 @@
+body {
+       font-family: Arial, sans-serif; 
+    font-size: 12px; 
+    background-color: #ffffffd0; 
+    color: #333333; 
+}
+h1 {
+    color: #ff0000; 
+    font-size: 24px;
+    font-family: Georgia, serif; 
+}
+h2 {
+    color: #000000; 
+    font-size: 20px;
+    font-family: Georgia, serif; 
+}
+h3 {
+    color: #000000; 
+    font-size: 16px;
+    font-family: Georgia, serif; 
+}
+h4 {
+    color: #000000; 
+    font-size: 16px;
+    font-family: Georgia, serif; 
+}
+p.a {
+    line-height: unset;}
